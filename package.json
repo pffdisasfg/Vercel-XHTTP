@@ -4,7 +4,6 @@
   "description": "Serverless XHTTP relay for Xray/V2Ray on Vercel (Node.js runtime, 128MB memory)",
   "private": true,
   "license": "MIT"
-},
 "scripts": {
     "dev": "next dev",
     "build": "next build",
